@@ -32,8 +32,9 @@ This project is ideal for beginners who want to understand how image classificat
 
 ## 📂 Project Structure
 ├── ImageCLassification.ipynb
+├── requirements.txt (optional)
 ├── README.md
-└── dataset/ (not included)
+└── dataset/ (not uploaded)
 
 ---
 
@@ -60,3 +61,7 @@ This project is ideal for beginners who want to understand how image classificat
 1. Clone the repository
 ```bash
 git clone https://github.com/dhruv-sehra/image-classification.git
+bash```
+
+2. Open Jupyter Notebook
+jupyter notebook
