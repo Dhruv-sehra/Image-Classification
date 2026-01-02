@@ -1,2 +1,62 @@
-# Image-Classification
-CNN based Image Classification model
+# Image Classification using Deep Learning (CNN)
+
+This project implements an **Image Classification model** using **Convolutional Neural Networks (CNNs)** in Python.  
+The model is trained to classify images into different categories using deep learning techniques.
+
+---
+
+## 📌 Project Overview
+
+- Built using **Python** and **TensorFlow / Keras**
+- Uses **Convolutional Neural Networks (CNN)**
+- Demonstrates the complete pipeline:
+  - Data loading
+  - Image preprocessing
+  - Model building
+  - Training
+  - Evaluation
+
+This project is ideal for beginners who want to understand how image classification works in deep learning.
+
+---
+
+## 🛠️ Technologies Used
+
+- Python  
+- TensorFlow / Keras  
+- NumPy  
+- Matplotlib  
+- Jupyter Notebook  
+
+---
+
+## 📂 Project Structure
+├── ImageCLassification.ipynb
+├── README.md
+└── dataset/ (not included)
+
+---
+
+## 🧠 Model Architecture
+
+- Convolutional Layers (feature extraction)
+- Pooling Layers (dimensionality reduction)
+- Fully Connected Dense Layers
+- Softmax / Sigmoid output layer (based on number of classes)
+
+---
+
+## 📊 Training Details
+
+- Image preprocessing using resizing & normalization
+- Loss Function: `categorical_crossentropy` / `binary_crossentropy`
+- Optimizer: Adam
+- Metrics: Accuracy
+
+---
+
+## 🚀 How to Run the Project
+
+1. Clone the repository
+```bash
+git clone https://github.com/dhruv-sehra/image-classification.git
