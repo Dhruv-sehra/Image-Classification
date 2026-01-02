@@ -77,3 +77,6 @@ git clone https://github.com/dhruv-sehra/image-classification.git
 B.Tech (Artificial Intelligence & Machine Learning)  
 Aspiring Machine Learning Engineer
 
+---
+
+⭐ Support this project by giving it a star on GitHub.
