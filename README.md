@@ -31,11 +31,14 @@ This project is ideal for beginners who want to understand how image classificat
 ---
 
 ## 📂 Project Structure
+
 ├── ImageCLassification.ipynb
 ├── requirements.txt (optional)
 ├── README.md
 └── dataset/ (not uploaded)
-    The code is written in a modular way so that any compatible image dataset can be easily plugged in.
+
+
+The code is written in a modular way so that any compatible image dataset can be easily plugged in.
 
 ---
 
@@ -60,17 +63,14 @@ This project is ideal for beginners who want to understand how image classificat
 ## 🚀 How to Run the Project
 
 1. Clone the repository
-```bash
-git clone https://github.com/dhruv-sehra/image-classification.git
+``bash git clone https://github.com/dhruv-sehra/image-classification.git``
 
-2. Open Jupyter Notebook
+2.Open Jupyter Notebook
 jupyter notebook
 
+3.Run ImageCLassification.ipynb step by step.
 
-
-## 👤 Author
-
-**Dhruv Sehra**  
-B.Tech (Artificial Intelligence & Machine Learning)  
+##👤 Author
+Dhruv Sehra
+B.Tech (Artificial Intelligence & Machine Learning)
 Aspiring Machine Learning Engineer
-
