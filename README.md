@@ -67,9 +67,9 @@ The code is written in a modular way so that any compatible image dataset can be
 git clone https://github.com/dhruv-sehra/image-classification.git
 ```
 
-3. Open Jupyter Notebook
+2. Open Jupyter Notebook
 
-4. Run ImageCLassification.ipynb step by step.
+3. Run ImageCLassification.ipynb step by step.
 
 ## 👤 Author
 
