@@ -35,6 +35,7 @@ This project is ideal for beginners who want to understand how image classificat
 ├── requirements.txt (optional)
 ├── README.md
 └── dataset/ (not uploaded)
+    The code is written in a modular way so that any compatible image dataset can be easily plugged in.
 
 ---
 
@@ -61,7 +62,15 @@ This project is ideal for beginners who want to understand how image classificat
 1. Clone the repository
 ```bash
 git clone https://github.com/dhruv-sehra/image-classification.git
-bash```
 
 2. Open Jupyter Notebook
 jupyter notebook
+
+
+
+## 👤 Author
+
+**Dhruv Sehra**  
+B.Tech (Artificial Intelligence & Machine Learning)  
+Aspiring Machine Learning Engineer
+
