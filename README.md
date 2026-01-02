@@ -63,14 +63,17 @@ The code is written in a modular way so that any compatible image dataset can be
 ## 🚀 How to Run the Project
 
 1. Clone the repository
-``bash git clone https://github.com/dhruv-sehra/image-classification.git``
+```bash git clone https://github.com/dhruv-sehra/image-classification.git```
 
 2.Open Jupyter Notebook
+
 jupyter notebook
 
-3.Run ImageCLassification.ipynb step by step.
+3. Run ImageCLassification.ipynb step by step.
 
-##👤 Author
-Dhruv Sehra
-B.Tech (Artificial Intelligence & Machine Learning)
+## 👤 Author
+
+**Dhruv Sehra**  
+B.Tech (Artificial Intelligence & Machine Learning)  
 Aspiring Machine Learning Engineer
+
